@@ -1,0 +1,54 @@
+.tabla {
+    width: 75%;
+    border-collapse:collapse;
+    margin: auto;
+    background-color: #A4A4A4;
+    border: 2px solid black;
+    table-layout: fixed;
+}
+.dato {
+    text-align: center;
+    border: 2px solid green;
+}
+
+.datoIzq {
+    text-align: left;    
+    border: 2px solid green;
+}
+
+.dato .txt {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+select{
+    max-width:90%;
+    text-overflow: ellipsis;
+}
+
+table {
+    width: 100%
+}
+
+input[type="button"] {
+    white-space: normal;
+    width: 80%;
+    padding:0 5%; 
+}
+
+div.container {
+background-color: #88f083;
+}
+
+div.container p {
+text-align: center;
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: bold;
+text-decoration: none;
+text-transform: none;
+letter-spacing: 5px;
+color: #000000;
+background-color: #abf2a8;
+}

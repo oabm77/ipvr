@@ -1,0 +1,35 @@
+.tabla {
+    width: 95%;
+    border-collapse:collapse;
+    margin: auto;
+    border: 2px solid black;
+    table-layout: fixed;
+}
+.dato {
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.datoIzq {
+    text-align: left;    
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.dato .txt {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: #e0e0d1;
+}
+
+canvas {
+    display : block;
+}
